@@ -1,0 +1,17 @@
+article,
+.firstcol {
+  display: flex;
+  flex-direction: flex-start;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header {
+  
+  border-right: 9px solid rgb(251, 255, 0) ; 
+  margin-right: 1%; margin-left: 1%; text-align:center; 
+}
+.name {font-size:40px;}
+p2{text-align:left;}
+
+.edu{padding-top:50px;}
+h2{font-size:30px;}
